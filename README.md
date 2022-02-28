@@ -26,6 +26,6 @@ I'm a student and junior front-end developer
 
 
 ## 📫 How to reach me: 
-Linkedin: linkedin.com/in/giuseppe-petrucci-a19b73222
+[Linkedin](linkedin.com/in/giuseppe-petrucci-a19b73222).
 Email: peppe.ptr@gmail.com
 
