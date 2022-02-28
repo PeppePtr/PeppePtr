@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a front-end developer student in Develhope
+I'm a student and junior front-end developer
 - 🔭 I’m currently working with my team to replicate a [website](https://github.com/Valexy6/Pancakeswap-Angular.git). 
 - 🌱 I’m currently learning Html,Css,Javascript and framework Angular
 
